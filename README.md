@@ -1,10 +1,6 @@
 ## About Me
 My name is Vedant Shah and I am 3A Computer Science student at the University of Waterloo. I aspire to specialize in Artificial Intelligence and love solving complex problems
-people face on a daily basis (check out some of my projects such as Ad Astra and UBank). I am currently a Systems Engineering intern in the consulting practice at Deloitte and previously interned as a DevOps Engineer intern at NCR Corporation.
-!   
-
-Email: v37shah@uwaterloo.ca  
-LinkedIn: https://www.linkedin.com/in/vedantshah18/  
+people face on a daily basis (check out some of my projects such as Ad Astra and UBank). I am currently a Systems Engineering intern in the consulting practice at Deloitte and previously interned as a DevOps Engineer intern at NCR Corporation. Feel free to reach out to me email @ v37shah@uwaterloo.ca or via LinkedIn @ https://www.linkedin.com/in/vedantshah18/.  
 
 <!--
 ## Stats
