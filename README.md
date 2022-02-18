@@ -1,6 +1,6 @@
 ## About Me
 My name is Vedant Shah and I am 3B Computer Science student at the University of Waterloo. I aspire to specialize in Artificial Intelligence and love solving complex problems
-people face on a daily basis (check out some of my projects such as Stocc, Internhelper, Ad Astra, & UBank). I am currently interning as a Software Engineer intern at Nuvalence and seeking Summer 2022 internships and have previously interned as a Software Engineer @ Deloitte and DevOps Engineer @ NCR Corporation. Feel free to reach out to me email @ [v37shah@uwaterloo.ca](v37shah@uwaterloo.ca) or via LinkedIn @ [linkedin.com/in/vedantshah18/](https://www.linkedin.com/in/vedantshah18/).
+people face on a daily basis (check out some of my projects such as Stocc, Internhelper, Ad Astra, & UBank). I am currently interning as a Software Engineer intern at Nuvalence and an incoming SWE intern at HubSpot and have previously interned as a Software Engineer @ Deloitte and DevOps Engineer @ NCR Corporation. Feel free to reach out to me email @ [v37shah@uwaterloo.ca](v37shah@uwaterloo.ca) or via LinkedIn @ [linkedin.com/in/vedantshah18/](https://www.linkedin.com/in/vedantshah18/).
 
 <!--
 ## Stats
